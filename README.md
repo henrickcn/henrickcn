@@ -1,6 +1,6 @@
 - 👋 我是Johny，目前居住及工作在深圳，从事Web开始已经有10年+，主要负责项目开发技术主导及团队建设工作。
 - 👀 I’m interested in PHP/HTML/JS/MySQL/Arduino
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on web project
 - 📫 If you hove project plan, contact to me henrick@vip.qq.com
 
